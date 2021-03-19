@@ -1,8 +1,8 @@
-# SCIM Meeting Notes 20XX-YY-ZZ
+# 20XX-YY-ZZ
 * Notes taken by 
 
 ## Attendees
-*
+* First Last (Affiliation)
 
 ## Agenda
 
