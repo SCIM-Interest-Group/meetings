@@ -1,10 +1,14 @@
 # 20XX-YY-ZZ
 * Notes taken by 
 
-## Attendees
+## attendees
 * First Last (Affiliation)
 
-## Agenda
+## agenda
 
 
-## Meeting Notes
+## meeting notes
+
+## actions for next week
+
+## actions for a future meeting
