@@ -8,5 +8,6 @@ agendas and meeting notes
 * 2021-06-02 | 15:00 UTC | [time zone converter](https://www.timeanddate.com/worldclock/converter.html?iso=20210505T150000&p1=22&p2=248&p3=236&p4=438&p5=776&p6=16&p7=1440&p8=43&p9=24&p10=220&p11=234) | [virtual meeting link](https://www.timeanddate.com/worldclock/converter.html?iso=20210602T150000&p1=22&p2=248&p3=236&p4=438&p5=776&p6=16&p7=1440&p8=43&p9=24&p10=220&p11=234)
 
 ## previous meeting notes
-
+* [2021-05-05](2021/2021-05-05.md)
+* [2021-04-07](2021/2021-04-07.md)
 * [2021-03-17](2021/2021-03-17.md)
