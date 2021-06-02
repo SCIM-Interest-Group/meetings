@@ -11,7 +11,7 @@ Planned meeting times are alternating meeting times of 8am PT on the first Wedne
 ## previous meeting notes
 > All recordings on YouTube [https://www.youtube.com/channel/UCe2lm3WNUfehPOxEvZ92ygA](https://www.youtube.com/channel/UCe2lm3WNUfehPOxEvZ92ygA)
 
-
+* [2021-05-19](2021/2021-05-19.md)
 * [2021-05-05](2021/2021-05-05.md)
 * [2021-04-07](2021/2021-04-07.md)
 * [2021-03-17](2021/2021-03-17.md)
